@@ -6,11 +6,16 @@ import java.util.List;
 
 public class Main {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	/*
 	 * You have an ArrayList of names that you want to sort alphabetically.
 	 * Which approach would not work?
-	 * Você tem uma ArrayList de nomes que deseja classificar em ordem alfabética.
-	 * Qual abordagem não funcionaria?
+	 * VocÃª tem uma ArrayList de nomes que deseja classificar em ordem alfabÃ©tica.
+	 * Qual abordagem nÃ£o funcionaria?
 	 * 
 	 * 
 	 * 
